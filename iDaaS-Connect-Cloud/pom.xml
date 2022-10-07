@@ -7,7 +7,7 @@
     <version>5.0.1</version>
 
     <properties>
-        <camel.version>3.9.0</camel.version>
+        <camel.version>3.19.0</camel.version>
         <springboot.version>2.4.4</springboot.version>
     </properties>
     <!-- https://camel.apache.org/releases/release-3.9.0/ -->
